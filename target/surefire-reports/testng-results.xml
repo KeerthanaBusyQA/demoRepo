@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2018-09-14T20:19:29Z" finished-at="2018-09-14T20:19:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2018-09-14T20:19:29Z" finished-at="2018-09-14T20:19:29Z">
+      <class name="packageJenkins.Hello2">
+        <test-method status="PASS" signature="hello()[pri:0, instance:packageJenkins.Hello2@3b81a1bc]" name="hello" duration-ms="5" started-at="2018-09-14T20:19:29Z" finished-at="2018-09-14T20:19:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+      </class> <!-- packageJenkins.Hello2 -->
+      <class name="packageJenkins.Hello">
+        <test-method status="PASS" signature="hello()[pri:0, instance:packageJenkins.Hello@4e04a765]" name="hello" duration-ms="0" started-at="2018-09-14T20:19:29Z" finished-at="2018-09-14T20:19:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+      </class> <!-- packageJenkins.Hello -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
